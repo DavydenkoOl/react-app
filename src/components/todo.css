@@ -1,0 +1,21 @@
+.image-button {
+    width: 25px; /* задайте ширину и высоту кнопки по вашему выбору */
+    height: 25px;
+   
+    background-size: cover; 
+    background-repeat: no-repeat; /* предотвращает повторение фонового изображения */
+    border: none; /* убираем границу кнопки */
+    background-color: transparent;
+    cursor: pointer; 
+    margin-right: none;
+    margin-left: 10px;
+    margin-top: 5px;
+  }
+  
+  .image-button-1 {
+    background-image: url('/src/components/todo/img/tick.png');
+  }
+  
+  .image-button-2 {
+    background-image: url('/src/components/todo/img/double-tick.png');
+  }
