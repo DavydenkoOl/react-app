@@ -1,0 +1,16 @@
+.tovar{
+    width: 320px;
+    height: auto;
+    margin-right: 5px;
+    border: 1px solid #d7e2e3;
+    padding: 8px;
+    border-radius: 5px;
+}
+.containerProd{
+    display: flex;
+}
+.separator {
+    border-top: 1px outset #d7e2e3;
+    margin: 10px 0;
+    
+}

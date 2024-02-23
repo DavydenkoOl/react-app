@@ -34,7 +34,7 @@ code {
   background-color: white;
   color: black;
 }
-#btn_tick{
+/*#btn_tick{
   width: 25px; 
   height: 25px;
   background-image: url('/src/components/todo/img/tick.png');
@@ -46,8 +46,8 @@ code {
   margin-right: none;
   margin-left: 10px;
   margin-top: 5px;
-}
-/*.image-button {
+}*/
+.image-button {
   width: 25px; 
   height: 25px;
  
@@ -66,5 +66,5 @@ code {
 }
 
 .image-button-2 {
-  background-image: url('/src/components/todo/img/double-tick.png');
-}*/
+  background-image: url('/src/components/todo/img/double-tick1.png');
+}
